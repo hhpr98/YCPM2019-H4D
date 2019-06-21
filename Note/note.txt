@@ -1,0 +1,11 @@
+﻿- Chi tiết (các bước 1,2,3)=> viết usecase
+- các actor nào 
+- các người dùng
+- luồng chính : zô app ntn
+
+-- vẽ lại file luồng nộp thầy
+
+-vẽ lại usecase
+chú ý extend include
+
+email 1 trang ngắn review actor,luồng
